@@ -1,3 +1,7 @@
 # automating-aws-with-python
-Repository for AWS python automation Acloud Guru class
-Iam modifying this read me file to see if it's going to get published on github.
+
+Repository for a the A cloud Guru course *automating AWS With Python*
+
+## 01-webotron
+
+Is a script that will be used to sync local directory to S3 and optionally configure route53 and Cloudfront
