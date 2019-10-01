@@ -12,3 +12,4 @@ Is a script that will be used to sync local directory to S3 and optionally confi
 Webotron currently has the following features:
 - List bucket
 - List contents of a bucket
+- Create a Website
